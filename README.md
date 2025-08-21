@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**AlfieMcGlennon/AlfieMcGlennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alfie McGlennon**, a recent **Meteorology graduate** with a strong interest in **data analytics** and future applications in **engineering**.  
 
-Here are some ideas to get you started:
+💻 **Skills**  
+- Python (NumPy, Pandas, Matplotlib, Seaborn)  
+- SQL for querying & managing data  
+- Power BI for dashboards & reporting  
+- Data cleaning, analysis & visualization  
+- Statistical methods & scientific computing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Interests**  
+- Data-driven problem solving  
+- Weather & climate data analysis  
+- Building clear, impactful visualizations  
+
+🚀 **Current Focus**  
+- Expanding projects in data analytics  
+- Sharing code and learning in public here on GitHub  
+
+📫 **Connect with me**  
+- [LinkedIn](https://www.linkedin.com/in/alfred-mcglennon-927589253/)  
+
+
